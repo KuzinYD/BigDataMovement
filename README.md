@@ -1,3 +1,5 @@
 Data Movement task:
 
-![Output](/docs/output.png)
+![Output from airflow](/docs/output_airflow.png)
+
+![Output from csv result with enriched data](/docs/enriched_data.png)
